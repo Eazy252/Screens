@@ -1,16 +1,8 @@
 # screen
 
-A new Flutter project.
+Screen is a networking platform that runs on a Local Area Network, 
+it can be used in an office, household, campus or any setting where all 
+users are conneted to a local network, its aims to aid communication 
+within a network of users without the use of the internet.
+#
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
